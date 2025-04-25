@@ -79,7 +79,7 @@ export default function App() {
 
   return (
     <div className="p-6 space-y-6 max-w-xl mx-auto">
-      <h1 className="text-2xl font-bold text-center">Vóley + Matemáticas</h1>
+      <h1 className="text-2xl font-bold text-center">Vóley y Matemáticas</h1>
 
       <div className="space-y-4 p-4 border rounded bg-white shadow">
         <h2 className="text-lg font-semibold">Simulación de la Parábola del Ataque</h2>
